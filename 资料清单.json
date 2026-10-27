@@ -1,0 +1,515 @@
+{
+  "verified_on": "2026-10-27",
+  "counts": {
+    "入门": 8,
+    "进阶": 19,
+    "索引型": 1,
+    "实战": 7
+  },
+  "total": 35,
+  "items": [
+    {
+      "group": "入门",
+      "index": 1,
+      "title": "AI Infra 软核教程（一）：为什么我们需要 AI Infra",
+      "source_title": "AI Infra 软核教程（一）为什么我们需要 AI Infra",
+      "author": "锦恢",
+      "url": "https://zhuanlan.zhihu.com/p/2063938554061967779",
+      "verification": "已打开知乎原文，以网页 H1、作者链接及正文核对；知乎精选站内精确搜索亦返回同一 URL。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/2063938554061967779",
+        "https://zhihufrontier.com/search?q=%E8%BD%AF%E6%A0%B8%E6%95%99%E7%A8%8B",
+        "https://kirigaya.cn/blog/article?seq=384"
+      ],
+      "temporal": false,
+      "edited_at": "2026-07-30 15:40",
+      "access": "浏览器可读正文；作者博客亦可读。",
+      "notes": "截图字形易误读，检索及原文确认是“软核教程”和“锦恢”。截图题名中的冒号属于排版差异，原文无冒号。作者博客为同篇作者自发布版本。"
+    },
+    {
+      "group": "入门",
+      "index": 2,
+      "title": "AI Infra 核心逻辑与大模型行业趋势",
+      "source_title": "AI Infra 核心逻辑与大模型行业趋势",
+      "author": "ZOMI酱",
+      "url": "https://zhuanlan.zhihu.com/p/1950625325127014130",
+      "verification": "已打开知乎原文，H1 完全匹配，作者链接显示 ZOMI酱；从知乎精选站内搜索“核心逻辑”提取原始 href。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/1950625325127014130",
+        "https://zhihufrontier.com/search?q=%E6%A0%B8%E5%BF%83%E9%80%BB%E8%BE%91",
+        "https://infrasys-ai.github.io/aiinfra-docs/00Summary/06Future.html"
+      ],
+      "temporal": false,
+      "edited_at": "2025-09-14 20:07",
+      "access": "浏览器可读正文。",
+      "notes": "作者官方课程站有题名略短的同主题章节；最终采用已直接核验、完整题名匹配的知乎原文。"
+    },
+    {
+      "group": "入门",
+      "index": 3,
+      "title": "大模型推理加速技术的学习路线是什么？",
+      "source_title": "大模型推理加速技术的学习路线是什么?",
+      "author": "骑虎南下",
+      "url": "https://www.zhihu.com/question/591646269/answer/1909169222518567197",
+      "verification": "检索到知乎英文版同一 answer ID，点击 Visit original page 进入中文原文，核对问题 H1、指定回答作者及正文。",
+      "evidence": [
+        "https://www.zhihu.com/question/591646269/answer/1909169222518567197",
+        "https://www.zhihu.com/en/answer/1909169222518567197"
+      ],
+      "temporal": false,
+      "access": "中文及英文版均可在浏览器读取。",
+      "notes": "保留指定回答的完整 question/answer URL，避免只链接问题而错指其他作者回答。英文版展示编辑日期为 2026-09-26 23:40，未把该日期认定为中文版最新日期。"
+    },
+    {
+      "group": "入门",
+      "index": 4,
+      "title": "大模型分布式训练并行技术（一）- 概述",
+      "source_title": "大模型分布式训练并行技术（一）-概述",
+      "author": "吃果冻不吐果冻皮",
+      "url": "https://zhuanlan.zhihu.com/p/598714869",
+      "verification": "搜索索引及浏览器原文均确认完整题名、作者，正文为并行技术概述。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/598714869"
+      ],
+      "temporal": false,
+      "edited_at": "2026-06-26 00:39",
+      "access": "web 抓取为 403；浏览器已成功打开并读取正文。",
+      "notes": "未使用另一作者的 GitHub 同名文章。"
+    },
+    {
+      "group": "入门",
+      "index": 5,
+      "title": "MOE 大模型架构与机制详解——以 DeepSeek-v3 为例",
+      "source_title": "MOE 大模型架构与机制详解 —— 以 DeepSeek‑v3 为例",
+      "author": "北方的郎",
+      "url": "https://zhuanlan.zhihu.com/p/22570639120",
+      "verification": "从参考文献中的精确标题和 URL 发现线索，随后已打开知乎原文，核对 H1、北方的郎署名及 DeepSeek-v3 章节。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/22570639120",
+        "https://baaidata.csdn.net/693fd0dd43d3770353bd8208.html"
+      ],
+      "temporal": false,
+      "edited_at": "2025-09-22 15:53",
+      "access": "web 抓取为 403；浏览器已成功打开并读取正文。",
+      "notes": "标题连字符、空格按截图常规显示；source_title 保留网页实际题名。"
+    },
+    {
+      "group": "入门",
+      "index": 6,
+      "title": "【AI Infra】VeRL 框架入门 & 代码带读",
+      "source_title": "[AI Infra] VeRL 框架入门&代码带读",
+      "author": "不关岳岳的事",
+      "url": "https://zhuanlan.zhihu.com/p/27676081245",
+      "verification": "授权转载明示原文链接与作者，随后已打开知乎原文，核对 H1、不关岳岳的事署名及 VeRL 代码阅读正文。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/27676081245",
+        "https://2048ai.net/682af253606a8318e8577209.html"
+      ],
+      "temporal": false,
+      "edited_at": "2025-03-13 00:59",
+      "access": "web 抓取为 403；浏览器已成功打开并读取正文。",
+      "notes": "网页实际标题使用英文方括号，截图使用中文方括号，属于标点排版差异。"
+    },
+    {
+      "group": "入门",
+      "index": 7,
+      "title": "AI Infra 学习路线",
+      "source_title": "AI Infra学习路线",
+      "author": "草帽路飞",
+      "url": "https://zhuanlan.zhihu.com/p/2021970155182326008",
+      "verification": "从公开原文核验记录中的精确链接发现线索；已打开知乎原文，核对 H1、草帽路飞署名及完整路线正文；作者 GitHub 知识库亦收录。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/2021970155182326008",
+        "https://github.com/we1005/zhihu-mcp/blob/main/docs/%E7%9F%A5%E4%B9%8E%E7%9B%B4%E7%AD%94%E4%B8%8E%E7%9B%B4%E6%8E%A5%E6%90%9C%E7%B4%A2%E5%AF%B9%E6%AF%94%E5%AE%9E%E6%B5%8B-AIInfra-2026-09-09.md",
+        "https://caomaolufei.github.io/AIInfraGuide/guides/ai-infra%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/"
+      ],
+      "temporal": false,
+      "edited_at": "2026-06-09 11:01",
+      "access": "浏览器可读正文；作者知识库亦可读。",
+      "notes": "未使用掘金上标题为“精简版”的文章替代。"
+    },
+    {
+      "group": "入门",
+      "index": 8,
+      "title": "AI infra 面试经验贴",
+      "source_title": "AI infra 面试经验贴",
+      "author": "抠抠歪",
+      "url": "https://zhuanlan.zhihu.com/p/1970722821522061231",
+      "verification": "作者个人主页列出精确题名与知乎 href；已打开知乎原文，核对 H1、关于作者区域的抠抠歪署名，以及北美面试背景正文。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/1970722821522061231",
+        "https://puppyq08.github.io/"
+      ],
+      "temporal": true,
+      "edited_at": "2025-12-25 21:59",
+      "access": "浏览器可读正文。",
+      "notes": "截图作者确认是“抠抠歪”。保留截图“时效型”标记；原文主要是 2025 年北美 AI infra 面试个人经验。"
+    },
+    {
+      "group": "进阶",
+      "index": 1,
+      "title": "vLLM PD 分离 KV cache 传递机制详解与演进分析",
+      "source_title": "vLLM PD分离KV cache传递机制详解与演进分析",
+      "author": "kaiyuan",
+      "url": "https://zhuanlan.zhihu.com/p/1906741007606878764",
+      "verification": "已在浏览器打开原文，核对首个H1标题、原作者kaiyuan链接；原作者InfraTech仓库亦列相同标题及URL。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/1906741007606878764",
+        "https://github.com/CalvinXKY/InfraTech"
+      ],
+      "temporal": false,
+      "notes": "网页抓取器403；已登录浏览器正文可读。"
+    },
+    {
+      "group": "进阶",
+      "index": 2,
+      "title": "重读 LLM Serving 调度论文",
+      "source_title": "重读LLM Serving调度论文",
+      "author": "雪人",
+      "url": "https://zhuanlan.zhihu.com/p/2022806041373550259",
+      "verification": "登录后的知乎站内搜索命中精确标题、作者雪人及URL；随后直接打开原文再次核对H1和署名。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/2022806041373550259"
+      ],
+      "temporal": false,
+      "notes": "全文可读。"
+    },
+    {
+      "group": "进阶",
+      "index": 3,
+      "title": "大模型推理框架，SGLang 和 vLLM 有哪些区别？",
+      "source_title": "大模型推理框架，SGLang和vLLM有哪些区别？",
+      "author": "杞鋂",
+      "url": "https://www.zhihu.com/question/666943660/answer/1937585837995975343",
+      "verification": "在问题页找到杞鋂的具体回答，展开正文，从其发布日期锚点取得完整answer URL，再单独打开该回答核对题名、作者。",
+      "evidence": [
+        "https://www.zhihu.com/question/666943660/answer/1937585837995975343"
+      ],
+      "temporal": false,
+      "notes": "同题有Trancy Wang、卡卡带我飞等多位回答者；已排除其他作者回答。作者字形由原文确认是杞鋂。"
+    },
+    {
+      "group": "进阶",
+      "index": 4,
+      "title": "vllm 和 sglang 的真正区别是什么？",
+      "source_title": "vLLM 和 SGLang 的真正区别是什么？",
+      "author": "WingEdge777",
+      "url": "https://www.zhihu.com/question/2045055313053843631/answer/2051092309400409916",
+      "verification": "知乎精选公开数据提供完整问题及回答URL；已在浏览器单独打开回答并核对问题H1及作者WingEdge777。",
+      "evidence": [
+        "https://www.zhihu.com/question/2045055313053843631/answer/2051092309400409916",
+        "https://zhihufrontier.com/api/content"
+      ],
+      "temporal": false,
+      "notes": "同题下大龄爱码士等人的回答未混用。原文大小写与截图稍有差别。"
+    },
+    {
+      "group": "进阶",
+      "index": 5,
+      "title": "一文捋顺千亿模型训练技术：流水线并行、张量并行和 3D 并行",
+      "source_title": "【深度学习】【分布式训练】一文捋顺千亿模型训练技术：流水线并行、张量并行和3D并行",
+      "author": "白强伟",
+      "url": "https://zhuanlan.zhihu.com/p/617087561",
+      "verification": "极市授权转载明示作者白强伟及原文URL；已在浏览器直接打开原文核对H1和作者。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/617087561",
+        "https://www.cvmart.net/community/detail/7998"
+      ],
+      "temporal": false,
+      "notes": "截图省略标题前的【深度学习】【分布式训练】标签。"
+    },
+    {
+      "group": "进阶",
+      "index": 6,
+      "title": "大模型基建这三年：AI Infra 通信演进之路",
+      "source_title": "大模型基建这三年：AI Infra通信演进之路",
+      "author": "老七",
+      "url": "https://zhuanlan.zhihu.com/p/1989653116635870625",
+      "verification": "已在浏览器直接打开原文核对H1和作者老七；与公开精选数据标题、作者、URL一致。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/1989653116635870625",
+        "https://zhihufrontier.com/api/content"
+      ],
+      "temporal": false,
+      "notes": "原文正文可读。"
+    },
+    {
+      "group": "进阶",
+      "index": 7,
+      "title": "RL Scaling 时代，我们需要什么样的 RL 框架呢？",
+      "source_title": "RL Scaling 时代，我们需要什么样的 RL 框架呢？",
+      "author": "zhuzilin",
+      "url": "https://zhuanlan.zhihu.com/p/1919107858110316886",
+      "verification": "公开RL系统索引给出精确标题和URL；已在浏览器打开原文核对H1和作者zhuzilin。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/1919107858110316886",
+        "https://github.com/wzbxpy/Awesome-RL-SYS"
+      ],
+      "temporal": false,
+      "notes": "原文正文可读。"
+    },
+    {
+      "group": "进阶",
+      "index": 8,
+      "title": "Agentic RL 时代的 Infra 重构",
+      "source_title": "Agentic RL 时代的 Infra 重构：以Forge、ROLL、Seer 、Slime为例",
+      "author": "低级炼丹师",
+      "url": "https://zhuanlan.zhihu.com/p/2022786148087464077",
+      "verification": "公开阅读笔记给出原文锚点；已在浏览器直接打开原文核对首个H1、作者低级炼丹师及正文开头。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/2022786148087464077",
+        "https://yaoyuanzhou.github.io/topics/notes-agentic-infra.html"
+      ],
+      "temporal": false,
+      "notes": "截图采用短标题；实际原文带副标题“以Forge、ROLL、Seer、Slime为例”。"
+    },
+    {
+      "group": "进阶",
+      "index": 9,
+      "title": "从各家技术文章看 26 年 Agentic RL Infra 优化方向",
+      "source_title": "从各家技术文章看26年Agentic RL Infra优化方向",
+      "author": "attack204",
+      "current_author": "akioi",
+      "url": "https://zhuanlan.zhihu.com/p/2007250216227729670",
+      "verification": "青稞社区和智猩猩授权转载均明确标记作者attack204并指向同一原文URL；直接打开该知乎原文时，题名与截图一致，当前署名已显示akioi。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/2007250216227729670",
+        "https://www.qingkeai.online/blog/26-Agentic-RL-Infra",
+        "https://course.zhidx.com/download/detail/ZDM4NjUyZDE5ZWFjYTgyMGQyYzM%3D"
+      ],
+      "temporal": true,
+      "notes": "保留截图作者attack204，并注明原文现署名akioi；旧转载署名和完全相同原文URL为对应证据。青稞转载使用展开的编辑标题，交付清单采用截图标题。"
+    },
+    {
+      "group": "进阶",
+      "index": 10,
+      "title": "基于 Ray 的分离式架构：veRL、OpenRLHF 工程设计",
+      "source_title": "基于 Ray 的分离式架构：veRL、OpenRLHF 工程设计",
+      "author": "杨远航",
+      "url": "https://zhuanlan.zhihu.com/p/26833089345",
+      "verification": "公开作者博客引用精确标题、作者和原文URL；已在浏览器直接打开知乎原文核对H1和作者杨远航。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/26833089345",
+        "https://www.reku1997.me/2025/03/11/zhihu/%E5%93%81%E9%89%B4%E4%B8%80%E4%B8%8BOpenRLHF%E5%92%8Cverl%E7%9A%84%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/"
+      ],
+      "temporal": false,
+      "notes": "原文正文可读。"
+    },
+    {
+      "group": "进阶",
+      "index": 11,
+      "title": "Slime 框架深度解析：面向大规模 RL 的训推一体化实践",
+      "author": "曹宇",
+      "url": "https://zhuanlan.zhihu.com/p/1921606246454239436",
+      "verification": "已在浏览器直接打开知乎原文，核对标题“Slime 框架深度解析：面向大规模RL的训推一体化实践”及作者曹宇。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/1921606246454239436",
+        "https://github.com/wzbxpy/Awesome-RL-SYS",
+        "https://qingkeai.online/blog/B8jp4Hnm"
+      ],
+      "temporal": false,
+      "notes": "同题公众号版本由青稞社区精确锚点指向 https://mp.weixin.qq.com/s/uCJSUpZNikxZpveLO9qW5w；公众号页面无法直接访问，交付采用已直接核验的知乎版本。"
+    },
+    {
+      "group": "进阶",
+      "index": 12,
+      "title": "Agent Infra：Sandbox 技术和选型",
+      "author": "ZY lian",
+      "url": "https://zhuanlan.zhihu.com/p/1999938129465979624",
+      "verification": "已在浏览器直接打开知乎原文，核对标题“Agent Infra: Sandbox技术和选型”及作者 ZY lian。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/1999938129465979624",
+        "https://www.zata.cc/p/%E7%A7%91%E6%8A%80%E6%9C%88%E6%8A%A5-2026/"
+      ],
+      "temporal": false,
+      "notes": "原文正文可读；网页检索工具返回403，使用浏览器完成直接核验。"
+    },
+    {
+      "group": "进阶",
+      "index": 13,
+      "title": "Agent sandbox 可能的选型以及 unikernel 的机会",
+      "author": "gaocegege",
+      "url": "https://gaocegege.com/Blog/genai/unikernel-agent",
+      "verification": "已打开作者个人博客原文：标题逐字对应，署名“高策”，作者区及邮箱确认其 gaocegege 身份；公开 AI-Infra 仓库也将高策与 gaocegege 对应。",
+      "evidence": [
+        "https://gaocegege.com/Blog/genai/unikernel-agent",
+        "https://github.com/pacoxu/AI-Infra/blob/main/agent-infra/README.md"
+      ],
+      "temporal": false,
+      "notes": "采用作者博客原文，可直接访问，发表于2026-02-17。"
+    },
+    {
+      "group": "进阶",
+      "index": 14,
+      "title": "如何系统地分析和定位大模型推理框架的性能瓶颈？",
+      "author": "chouheiwa",
+      "url": "https://www.zhihu.com/question/1993781500349539243/answer/2030665166598174331",
+      "verification": "已在浏览器直接打开指定知乎回答，核对完整问题标题及回答作者 chouheiwa；与知乎精选公开数据中同一回答的标题、作者、URL三项一致。",
+      "evidence": [
+        "https://www.zhihu.com/question/1993781500349539243/answer/2030665166598174331",
+        "https://zhihufrontier.com/category/infra",
+        "https://zhihufrontier.com/api/content"
+      ],
+      "temporal": false,
+      "notes": "截图标题省略“（如 SGLang、vLLM）”；完整原题为“如何系统地分析和定位大模型推理框架（如 SGLang, vLLM）的性能瓶颈？”。特别核对作者与同题 kaiyuan 回答不同，避免串链。"
+    },
+    {
+      "group": "进阶",
+      "index": 15,
+      "title": "AI 编译器的概览、挑战和实践",
+      "author": "金雪锋",
+      "url": "https://zhuanlan.zhihu.com/p/508345356",
+      "verification": "已在浏览器直接打开知乎原文，核对标题“AI编译器的概览、挑战和实践”及作者金雪锋。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/508345356",
+        "https://accelazh.github.io/paper%20reading/Recent-Articles-Reading-Notes-SSI-ABase-CurveFS"
+      ],
+      "temporal": false,
+      "notes": "极术社区存在同标题转载，未将转载作者“AI学习者”误配给截图条目。"
+    },
+    {
+      "group": "进阶",
+      "index": 16,
+      "title": "浅谈 AI 编译器趋势",
+      "author": "画饼充饥",
+      "url": "https://zhuanlan.zhihu.com/p/2040199323170951424",
+      "verification": "已在浏览器直接打开知乎原文，核对作者画饼充饥；完整标题为“浅谈AI编译器趋势：从更快的kernel到重新定义执行边界”，截图采用短标题。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/2040199323170951424",
+        "https://qingkeai.online/blog/2026-infra-compiler"
+      ],
+      "temporal": false,
+      "notes": "截图中短标题对应同一原文，青稞社区转载明确列出原文链接与作者。"
+    },
+    {
+      "group": "进阶",
+      "index": 17,
+      "title": "Triton 算子开发及编译器资源整理",
+      "author": "BobHuang",
+      "url": "https://zhuanlan.zhihu.com/p/2018815133590271874",
+      "verification": "已在浏览器直接打开知乎原文，核对标题“Triton算子开发及编译器资源整理”及作者 BobHuang；作者公开教程仓库README也直接指向该文章。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/2018815133590271874",
+        "https://github.com/dsl-learn/triton-tutorial/blob/main/README.md"
+      ],
+      "temporal": false,
+      "notes": "原文开头说明后续不再更新；配套 triton-tutorial 仓库已归档。"
+    },
+    {
+      "group": "进阶",
+      "index": 18,
+      "title": "C++/CUDA/AI-infra 面试经验总结",
+      "author": "jinboom",
+      "url": "https://zhuanlan.zhihu.com/p/2005325241803621742",
+      "verification": "已在已登录浏览器打开 jinboom 作者主页文章列表，找到精确同题条目，再直接打开知乎原文核对标题“C++/CUDA/AI-infra面试经验总结”及作者 jinboom。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/2005325241803621742",
+        "https://www.zhihu.com/people/jinbooooom/posts"
+      ],
+      "temporal": true,
+      "notes": "截图标记时效型。另有牛客网同名内容但署名不同，未用牛客链接替换截图指定的 jinboom 原文。"
+    },
+    {
+      "group": "进阶",
+      "index": 19,
+      "title": "AI Infra 实习准备记录 01：从三个项目开始",
+      "author": "哼嗯恒",
+      "url": "https://zhuanlan.zhihu.com/p/2041895503454015779",
+      "verification": "已在浏览器直接打开知乎原文，核对完整标题及作者“哼嗯恒”；与公开抓取核验记录表中的同题链接、作者一致。",
+      "evidence": [
+        "https://zhuanlan.zhihu.com/p/2041895503454015779",
+        "https://github.com/we1005/zhihu-mcp/blob/main/docs/%E7%9F%A5%E4%B9%8E%E7%9B%B4%E7%AD%94%E4%B8%8E%E7%9B%B4%E6%8E%A5%E6%90%9C%E7%B4%A2%E5%AF%B9%E6%AF%94%E5%AE%9E%E6%B5%8B-AIInfra-2026-09-09.md"
+      ],
+      "temporal": true,
+      "notes": "截图作者的字形已通过原文确认是“哼嗯恒”。截图标记时效型。"
+    },
+    {
+      "group": "索引型",
+      "index": 1,
+      "title": "LLM Infra 学习资料整理——推理（持续更新）",
+      "author": "TensorDance",
+      "url": "https://zhuanlan.zhihu.com/p/2036442749319296948",
+      "verification": "已打开知乎原文，核验标题与作者匹配。",
+      "evidence": "2026-10-27 IAB 页面：heading『LLM Infra学习资料整理-推理（持续更新）』；作者链接 TensorDance；正文以『模块一：GPU(CUDA）基础与kernel优化』开头。GitHub we1005/zhihu-mcp 的 docs/知乎直答与直接搜索对比实测-AIInfra-2026-09-09.md 亦列出相同标题、作者与 URL。",
+      "temporal": false,
+      "notes": "截图的空格与连接线为排版差异。web 抓取器返回403；IAB浏览器原文可读。"
+    },
+    {
+      "group": "实战",
+      "index": 1,
+      "title": "1.5×提升：PD 分离 KV cache 传输的实践经验",
+      "author": "kaiyuan",
+      "url": "https://zhuanlan.zhihu.com/p/1946608360259577576",
+      "verification": "已打开知乎原文，核验标题与作者匹配。",
+      "evidence": "2026-10-27 IAB 页面：heading『1.5x提升:PD分离KV cache传输的实践经验』；作者链接 kaiyuan（zhihu.com/people/xky7）。原作者 GitHub CalvinXKY/InfraTech README 在『推理提速经验分享』下也以此标题链接到相同文章。",
+      "temporal": false,
+      "notes": "截图的乘号、空格、冒号与原文有排版差异。web抓取器403；浏览器原文可读。"
+    },
+    {
+      "group": "实战",
+      "index": 2,
+      "title": "nanoPD：一个 LLM P/D 分离推理引擎的实现笔记",
+      "author": "暮易",
+      "url": "https://zhuanlan.zhihu.com/p/2026307825358382436",
+      "verification": "已通过知乎站内搜索定位并打开原文，核验标题与作者匹配。",
+      "evidence": "2026-10-27 已登录 IAB 的 nanoPD 搜索结果给出 URL 尾号2436；随后原文 heading『nanoPD:一个 LLM P/D 分离推理引擎的实现笔记』，作者链接『暮易』（zhihu.com/people/42-3-38-8-46），正文介绍从零实现约2000行Python+400行CUDA C++的PD分离引擎。作者个人站 https://www.hjcheng0602.cn/blog/nanopd/ 有同题全文。",
+      "temporal": false,
+      "notes": "已排除错误链接 https://zhuanlan.zhihu.com/p/2026307825358382336：什么值得买引用中该URL尾号错误，打开为荒原页。必须使用本条正确的2436。作者站署名Han Jincheng；主链接已直接核验暮易，无须靠别名推断。"
+    },
+    {
+      "group": "实战",
+      "index": 3,
+      "title": "推理框架极简入门：用 Nano-vLLM 搭建知识体系",
+      "author": "kaiyuan",
+      "url": "https://zhuanlan.zhihu.com/p/2008285806222132143",
+      "verification": "已打开知乎原文，核验标题与作者匹配。",
+      "evidence": "2026-10-27 IAB 原文 heading『推理框架极简入门：用Nano-vLLM搭建知识体系』，作者链接kaiyuan（zhihu.com/people/xky7）。原作者 GitHub https://github.com/CalvinXKY/InfraTech README 两处以同名标题链接到此URL，并配套 llm_infer/nano_vllm.ipynb。",
+      "temporal": false,
+      "notes": "仅空格排版差异；web抓取器403，IAB原文可读。"
+    },
+    {
+      "group": "实战",
+      "index": 4,
+      "title": "2025 最快下手 vLLM 的项目——nanovllm 源码解读",
+      "author": "Tiannuo Yang",
+      "url": "https://zhuanlan.zhihu.com/p/1925484783229698084",
+      "verification": "已打开知乎原文，核验标题与作者匹配。",
+      "evidence": "2026-10-27 IAB 原文 heading『2025最快下手vLLM的项目-nanovllm源码解读』；作者链接『Tiannuo Yang』（zhihu.com/people/shi-yi-40-72-5），简介链接 tiannuo-yang.github.io；编辑时间2025-07-07。GitHub https://github.com/naonao-cola/note README 引用的标题与URL也一致。",
+      "temporal": false,
+      "notes": "截图和原文均为『最快下手』，不是『最快上手』；请保留『下手』以免抄录错字。"
+    },
+    {
+      "group": "实战",
+      "index": 5,
+      "title": "LLM 推理框架（vLLM/SGLang）入门 Notebook 练习",
+      "author": "kaiyuan",
+      "url": "https://zhuanlan.zhihu.com/p/1999518738303693534",
+      "verification": "已从作者公开文章列表定位并打开原文，核验主题标题与作者匹配；当前完整标题多出期数后缀。",
+      "evidence": "2026-10-27 IAB 原作者 https://www.zhihu.com/people/xky7/posts 列出『LLM推理框架(vLLM/SGLang)入门Notebook练习（2026年第1期）』并直接链接到本URL；打开后heading同名、作者kaiyuan。正文列KV Cache计算、采样、ChunkedPrefill、基础调度器、Radix Attention等10项练习，并链接作者InfraTech仓库。",
+      "temporal": false,
+      "notes": "当前完整原文标题为『LLM推理框架(vLLM/SGLang)入门Notebook练习（2026年第1期）』。作者目录还存在『LLM推理框架(SGLang/vLLM)入门Notebook练习（2026年第2期）』；已排除第2期，避免误配。"
+    },
+    {
+      "group": "实战",
+      "index": 6,
+      "title": "深入浅出理解 verl 源码（Part 1）",
+      "author": "Chayenne Zhao",
+      "url": "https://zhuanlan.zhihu.com/p/1920751852749849692",
+      "verification": "已打开知乎原文，核验标题与作者匹配。",
+      "evidence": "2026-10-27 IAB 原文 heading『深入浅出理解 verl 源码（Part 1）』，作者链接『Chayenne Zhao』（zhihu.com/people/alan-70-79-23），收录专栏『机器学习小王子』。GitHub https://github.com/ztaoing/DeepRL_Steps README 的『verl设计』也以完全相同标题链接到该URL。",
+      "temporal": false,
+      "notes": "已区分Part 1与Rollout/Part 2文章；web抓取器403，IAB原文可读。"
+    },
+    {
+      "group": "实战",
+      "index": 7,
+      "title": "浅尝 mini sglang，回顾 nano vllm",
+      "author": "Shengguang",
+      "url": "https://zhuanlan.zhihu.com/p/1984934838818604631",
+      "verification": "已通过知乎站内搜索定位并打开原文，核验标题与作者匹配。",
+      "evidence": "2026-10-27 已登录 IAB 搜索『浅尝 mini sglang』命中『浅尝mini sglang， 回顾nano vllm』；打开URL后heading相同，作者链接『Shengguang』（zhihu.com/people/zhu-sheng-guang-30），收录专栏『infra』；正文对比mini-SGLang与nano-vllm。",
+      "temporal": false,
+      "notes": "截图与原文仅空格差异。没有用DarkSharpness等其他作者的mini-sglang介绍替换。"
+    }
+  ]
+}
